@@ -1,5 +1,5 @@
 from google.cloud import bigquery
-from google.cloud.bigquery.dataset import DatasetReference
+
 
 def revoke_access():
 	
